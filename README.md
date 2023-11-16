@@ -13,4 +13,4 @@ This Vagrantfile will do the following
 
 `vagrant up`
 or
-`vagrant up node01` etc
+`vagrant up mong-node01` etc
